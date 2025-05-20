@@ -1,6 +1,6 @@
 # To-Do List Application 📝
 
-![App Screenshot](image1)
+![App Screenshot](to-do.png)
 
 ## Overview
 
