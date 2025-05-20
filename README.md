@@ -15,7 +15,7 @@ This is a simple and elegant To-Do List application designed to help you efficie
 
 ## Demo
 
-See the screenshot above for a preview of the app's interface.
+https://roster-tracker.netlify.app/
 
 ## Getting Started
 
